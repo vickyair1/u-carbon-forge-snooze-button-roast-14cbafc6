@@ -1,0 +1,8 @@
+Build ONE make.fun bounty entry (round 1, FREE) for "Snooze Button Roast"
+(slug u-carbon-forge-snooze-button-roast-14cbafc6): one line, max 200 chars,
+roasting an alarm clock for ringing at 6 AM on a Saturday. Pick a fresh angle
+nobody else in the ~600-entry field uses (checked live: no "morning person"
+anywhere; roosters, debt collectors, landlords, unpaid interns and fire
+drills are saturated). Entry program repo/main.py writes the entry text only
+to /output/entry.txt, assembled from named parts and validated against the
+gate (UTF-8, 1-200 chars, single line, non-blank) before writing.
